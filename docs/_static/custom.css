@@ -3,6 +3,29 @@
   max-width: 1400px;
 }
 
+/* Full "veda online" wordmark in the header (not a tiny cropped icon) */
+.md-header__button.md-logo {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  margin-right: 0.25rem;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2rem;
+  width: auto;
+  max-width: 11rem;
+  object-fit: contain;
+}
+
+.md-nav__button.md-logo img,
+.md-nav__button.md-logo svg {
+  height: 2.4rem;
+  width: auto;
+  max-width: 12rem;
+  object-fit: contain;
+}
+
 html {
   scroll-behavior: smooth;
 }

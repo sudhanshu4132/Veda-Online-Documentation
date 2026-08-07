@@ -10,8 +10,9 @@ repo_name: sudhanshu4132/Veda-Online-Documentation
 
 theme:
   name: material
+  custom_dir: overrides
   logo: _static/vo_logo_bg_transparent.png
-  favicon: _static/vo_logo_bg_transparent.png
+  favicon: _static/vo_favicon.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
