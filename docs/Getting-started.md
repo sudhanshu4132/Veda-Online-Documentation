@@ -2,7 +2,7 @@
 
 These pages introduce Veda Online, help you register and create models, and compare the product to other options.
 
-- [introduction](introduction.md)
+- [Introduction](introduction.md)
 - [User types and pricing](User-types-and-pricing.md)
 - [OSeMOSYS in Veda](OSeMOSYS.md)
 - [Free academic access](VO_free_academic.md)
