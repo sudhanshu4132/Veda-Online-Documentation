@@ -1,4 +1,4 @@
-site_name: Veda Online Documentation
+site_name: Documentation
 site_description: Documentation for Veda Online — TIMES model management in the browser
 site_url: https://sudhanshu4132.github.io/Veda-Online-Documentation/
 use_directory_urls: false
@@ -102,15 +102,16 @@ nav:
 
   - Model Workspace:
     - Overview: model_workspace/Model-workspace.md
-    - Main Menu: model_workspace/Veda-Menu.md
-    - About Module: model_workspace/About.md
-    - Navigator: model_workspace/Navigator.md
-    - Browse: model_workspace/Browse.md
-    - Items Detail: model_workspace/Items-detail.md
-    - Attribute Master: model_workspace/Attribute-Master.md
-    - Run Manager: model_workspace/Run-Manager.md
-    - Results: model_workspace/Results.md
-    - Reports: model_workspace/Reports.md
+    - Main Menu: 
+      - Overview: model_workspace/Veda-Menu.md
+      - About Module: model_workspace/About.md
+      - Navigator: model_workspace/Navigator.md
+      - Browse: model_workspace/Browse.md
+      - Items Detail: model_workspace/Items-detail.md
+      - Attribute Master: model_workspace/Attribute-Master.md
+      - Run Manager: model_workspace/Run-Manager.md
+      - Results: model_workspace/Results.md
+      - Reports: model_workspace/Reports.md
 
   - User Account & Tools:
     - Overview: User-account-and-tools.md
