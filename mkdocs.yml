@@ -58,13 +58,13 @@ extra_javascript:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/kanors-emr
+      link: https://github.com/sudhanshu4132
       name: KanORS on GitHub
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@kanors-emr
+      link: https://www.youtube.com/playlist?list=PLED97cPMXPOm60xOKSwvmXaGIsQrjoM8Y
       name: KanORS on YouTube
     - icon: fontawesome/solid/globe
-      link: https://www.kanors-emr.com/
+      link: https://www.kanors-emr.org/
       name: KanORS website
 
 markdown_extensions:
