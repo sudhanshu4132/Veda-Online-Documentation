@@ -6,7 +6,7 @@
 
 - Each model run is based on a Case definition comprising [Run Manager Groups](https://www.youtube.com/watch?v=tE58L8RIBFM&list=PLRCe_SRAk7hOvHdyCuLQ15-6JldaH8Ryu&index=6) :
 
-  <img src="/images/run_manager_1.png" class="align-center" width="600" alt="image" />
+  <img src="../images/run_manager_1.png" class="align-center" width="600" alt="image" />
 
 ## How to use it?
 
@@ -60,7 +60,7 @@ The first four group sections support common actions such as creating, updating,
 
 ### 5 - Settings panel
 
-<img src="/images/run_manager_settings_panel.png" class="align-center" width="300" alt="image" />
+<img src="../images/run_manager_settings_panel.png" class="align-center" width="300" alt="image" />
 
 - **Update Results and Reports**
 
@@ -97,7 +97,7 @@ Review and manage saved case definitions, then select one or more cases to run.
 
     - Create a New Case by providing the core information for the case definition
 
-    <img src="/images/case_definition.png" class="align-center" width="400" alt="image" />
+    <img src="../images/case_definition.png" class="align-center" width="400" alt="image" />
 
     - Case Name - name of the case
 
@@ -138,7 +138,7 @@ Review and manage saved case definitions, then select one or more cases to run.
 
 - **Case History**
 
-  <img src="/images/gifs/Case_history.gif" class="align-center" width="600" alt="image" />
+  <img src="../images/gifs/Case_history.gif" class="align-center" width="600" alt="image" />
 
   - When you right-click a saved case, a context option named **Case History** is shown.
   - Clicking **Case History** opens a window that shows previous execution records for the selected saved case.
@@ -147,7 +147,7 @@ Review and manage saved case definitions, then select one or more cases to run.
 
 - **Model run submission/Solve Case** [Solving a Case](https://www.youtube.com/watch?v=rBIdKZjcTtE&list=PLRCe_SRAk7hOvHdyCuLQ15-6JldaH8Ryu&index=10)
 
-  <img src="/images/cases_grid.png" height="150" alt="image" />
+  <img src="../images/cases_grid.png" height="150" alt="image" />
 
   - Select one (or more) of the cases in the Managed Save Cases section and click **Solve** button.
   - Solve status of model case can be tracked in **JobsDashboard**.

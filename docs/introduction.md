@@ -57,7 +57,7 @@ All input data resides in Excel workbooks. XLSX/M format is recommended for Veda
 
 There can be multiple files for each type of data, apart from the first one - the core definitions. In each model folder, these files are organized in the structure shown below.
 
-<img src="/images/veda_folder_structure.png" width="700" alt="image" />
+<img src="images/veda_folder_structure.png" width="700" alt="image" />
 
 Files expected in these sub-folders are as under:
 
@@ -69,6 +69,6 @@ Files expected in these sub-folders are as under:
 
 Veda reads these Excel files into a PostgreSQL database, offers tabular and graphical views of the data as TIMES parameters, and submits the data to the TIMES code.
 
-<img src="/images/data_flow_and_files.png" width="700" alt="image" />
+<img src="images/data_flow_and_files.png" width="700" alt="image" />
 
 License types (Guest, Trial, Free, Developer, Academic), subscription fees, and GAMS Engine pricing are documented on the page [User types and pricing](User-types-and-pricing.md).

@@ -1,6 +1,7 @@
 site_name: Veda Online Documentation
 site_description: Documentation for Veda Online — TIMES model management in the browser
 site_url: https://sudhanshu4132.github.io/Veda-Online-Documentation/
+use_directory_urls: false
 docs_dir: docs
 site_author: KanORS
 

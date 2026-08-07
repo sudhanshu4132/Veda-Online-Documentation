@@ -6,7 +6,7 @@
 - The Navigator is the main vehicle for accessing, importing, and coordinating the various templates that make up a model.
 - Its main screen is divided into sub-windows according to the various types of templates managed by Veda.
 
-<img src="/images/navigator.png" class="align-center" alt="image" />
+<img src="../images/navigator.png" class="align-center" alt="image" />
 
 ## Quadrants
 
@@ -31,7 +31,7 @@
 
 ### Toolbar actions
 
-<img src="/images/navigator_toolbar.png" class="align-center" alt="Navigator toolbar" />
+<img src="../images/navigator_toolbar.png" class="align-center" alt="Navigator toolbar" />
 
 1.  **Options Menu** – Provides access to additional Navigator features:
 

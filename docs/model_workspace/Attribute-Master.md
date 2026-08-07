@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<img src="/images/Attribute_master.png" class="align-center" width="600" alt="image" />
+<img src="../images/Attribute_master.png" class="align-center" width="600" alt="image" />
 
 ## How to use it?
 

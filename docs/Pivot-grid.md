@@ -5,7 +5,7 @@
 The Pivot Grid presents assembled model input data in an interactive, pivot-table style interface. It allows users to review the data actually read by the system, validate declarations, and compare related inputs in one view.
 
 <figure class="align-center">
-<img src="/images/pivot_grid.png" alt="Pivot Grid" />
+<img src="images/pivot_grid.png" alt="Pivot Grid" />
 </figure>
 
 ## How to use it?
