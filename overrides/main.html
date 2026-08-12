@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
+{% block extrahead %}
+  <meta name="google-site-verification" content="rKPYT-T1yd-2L04hmqNQZ3jSmfoYtpeyHy7sHRI8_fE" />
+{% endblock %}
+
 {% block htmltitle %}
   {%- if page and page.meta and page.meta.title -%}
     <title>{{ page.meta.title }} - Veda Online Documentation</title>
