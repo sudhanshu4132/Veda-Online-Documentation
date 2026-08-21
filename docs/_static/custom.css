@@ -12,7 +12,7 @@
 
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
-  height: 2rem;
+  height: 1.5rem;
   width: auto;
   max-width: 11rem;
   object-fit: contain;
@@ -78,12 +78,38 @@ html {
   cursor: zoom-in;
 }
 
-.md-typeset a:hover{
-  text-decoration: none;
+.md-content .md-typeset a:hover:not(.md-button) {
+  text-decoration: underline;
+}
+
+/* Left nav + right TOC: selected page/section only (not section headers like Main Menu) */
+.md-sidebar--primary .md-nav__link--active,
+.md-sidebar--secondary .md-nav__link--active {
+  color: var(--md-accent-fg-color);
+  font-weight: 600;
+}
+
+.md-sidebar--primary .md-nav__link--active code,
+.md-sidebar--secondary .md-nav__link--active code {
+  color: var(--md-accent-fg-color);
+}
+
+/* Nest pages under section headers (e.g. Main Menu) so they read as children */
+.md-sidebar--primary .md-nav__item--nested > .md-nav > .md-nav__list,
+.md-sidebar--primary .md-nav__item--section > .md-nav > .md-nav__list {
+  margin-left: 0.6rem;
+  padding-left: 0.55rem;
+  border-left: 1px solid var(--md-default-fg-color--lightest);
 }
 
 .md-typeset th{
-  background-color: var(--md-accent-fg-color--transparent);
+  background-color: var(--md-default-fg-color--lightest);
+}
+
+/* Admonitions: accent on the left only (not full box border) */
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0 0 0 0.15rem;
 }
 
 .vo-lightbox {

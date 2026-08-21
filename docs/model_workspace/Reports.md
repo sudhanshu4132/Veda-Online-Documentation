@@ -172,7 +172,7 @@ This helps users share important analysis safely and in a more focused way.
 
 <img src="../images/gifs/reports_presenter_view.gif" class="align-center" width="600" alt="image" />
 
-##### How to use Report Presenter Views?
+#### How to use Report Presenter Views?
 
 - Share selected report information with other users
 - Present charts, tables, and analysis outputs in a clean format
@@ -181,13 +181,13 @@ This helps users share important analysis safely and in a more focused way.
 - Share report data for review, discussion, or presentation
 - Provide temporary access to selected report content
 
-##### Password Protection
+#### Password Protection
 
 - While creating or sharing a Presenter View, the user can set a password.
 - This adds an extra layer of security. Only users who have the correct password can open the shared Presenter View.
 - Password protection is useful when the shared report contains important or restricted information.
 
-##### Expiry Date
+#### Expiry Date
 
 - The user can also set an expiry date for the Presenter View.
 - The expiry date controls how long the shared Presenter View will remain accessible.
