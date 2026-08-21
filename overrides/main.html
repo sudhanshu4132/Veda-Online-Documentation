@@ -2,12 +2,29 @@
 
 {% block extrahead %}
   <meta name="google-site-verification" content="rKPYT-T1yd-2L04hmqNQZ3jSmfoYtpeyHy7sHRI8_fE" />
+  <meta name="robots" content="index, follow" />
+  {% set _desc = (page.meta.description if page and page.meta and page.meta.description else config.site_description) %}
+  {% set _title = (
+      page.meta.title if page and page.meta and page.meta.title
+      else (page.title | striptags if page and page.title and not page.is_homepage else "Veda Online Documentation")
+  ) %}
+  {% if _desc %}
+  <meta property="og:type" content="{% if page and page.is_homepage %}website{% else %}article{% endif %}" />
+  <meta property="og:title" content="{% if page and page.is_homepage %}Veda Online Documentation{% else %}{{ _title }} - Veda Online Documentation{% endif %}" />
+  <meta property="og:description" content="{{ _desc }}" />
+  <meta property="og:url" content="{{ page.canonical_url }}" />
+  <meta property="og:site_name" content="Veda Online Documentation" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{% if page and page.is_homepage %}Veda Online Documentation{% else %}{{ _title }} - Veda Online Documentation{% endif %}" />
+  <meta name="twitter:description" content="{{ _desc }}" />
+  {% endif %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "Veda Online Documentation",
-    "url": "https://sudhanshu4132.github.io/Veda-Online-Documentation/"
+    "url": "https://sudhanshu4132.github.io/Veda-Online-Documentation/",
+    "description": {{ config.site_description | tojson }}
   }
   </script>
 {% endblock %}
@@ -19,6 +36,5 @@
     <title>{{ page.title | striptags }} - Veda Online Documentation</title>
   {%- else -%}
     <title>Veda Online Documentation</title>
-  {%- endif -%}
+  {%- endif %}
 {% endblock %}
-

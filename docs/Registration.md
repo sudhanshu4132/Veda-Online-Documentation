@@ -1,3 +1,7 @@
+---
+description: Step-by-step guide to create a Veda Online account, verify email, and start using TIMES models in the browser.
+---
+
 # Account Creation Guide
 
 ## Tutorial Video

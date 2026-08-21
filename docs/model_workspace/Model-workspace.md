@@ -1,3 +1,7 @@
+---
+description: Overview of the Veda Online model workspace — Navigator, Browse, Items Detail, Attribute Master, Run Manager, Results, and Reports.
+---
+
 # Model workspace
 
 After you **open a model** from the home page, Veda Online loads the **model workspace**. The URL looks like this (your site may use `vedaonline.cloud` or another host):

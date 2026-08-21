@@ -1,3 +1,7 @@
+---
+description: Get started with Veda Online — introduction, registration, pricing, academic access, and how to create your first model.
+---
+
 # Getting started
 
 These pages introduce Veda Online, help you register and create models, and compare the product to other options.

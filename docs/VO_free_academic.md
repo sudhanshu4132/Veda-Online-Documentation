@@ -1,3 +1,7 @@
+---
+description: Free academic access to Veda Online for students learning TIMES modeling — how institutions register and request ETSAP approval.
+---
+
 # Learn/Use TIMES on Veda Online (free)
 
 ETSAP and KanORS have created a free online platform where students can learn Veda-TIMES modeling.

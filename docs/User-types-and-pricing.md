@@ -1,3 +1,7 @@
+---
+description: Veda Online user types and pricing — Guest, Trial, Free, Developer, and Academic licenses, plus GAMS solve options.
+---
+
 # User types and pricing
 
 Veda online supports the following types of users:

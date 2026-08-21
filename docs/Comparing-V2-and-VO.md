@@ -1,3 +1,7 @@
+---
+description: Compare Veda Online and Veda2.0 — setup, collaboration, security, sharing models, and when to use each.
+---
+
 # Comparing Veda online and Veda2.0
 
 <table>

@@ -1,3 +1,7 @@
+---
+description: Learn what Veda Online is — browser-based TIMES model management with sync, browse, runs, results, and collaboration on GitHub.
+---
+
 # Introduction
 
 Veda online (VO) enables working with TIMES models via Internet Browsers. Veda model folders are expected to be on GitHub, and all the core functionality of Veda2.0 - Synchronizing Excel files, browsing input data, running models, and looking at results/reports - is available online.

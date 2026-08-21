@@ -1,3 +1,7 @@
+---
+description: How Veda Online supports OSeMOSYS models — data containers, CSV reading methodology, and working with OSeMOSYS in the browser.
+---
+
 # OSeMOSYS in Veda
 
 ## Not a Black Box — Trust the Process? Allow us to explain.

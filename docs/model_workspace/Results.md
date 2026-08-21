@@ -1,3 +1,7 @@
+---
+description: Analyse TIMES model results in Veda Online — VD files, views, pivots, and comparing scenarios in the Results module.
+---
+
 # Results
 
 ## Introduction

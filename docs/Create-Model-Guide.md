@@ -1,3 +1,7 @@
+---
+description: Create a Veda Online model from a public GitHub repository or with a Personal Access Token for private repos.
+---
+
 # Create Model Guide
 
 Veda Online provides a **Create Model** option that allows users to create a model directly from a GitHub repository. This can be done in two ways: clone a **public** repository by URL, or use a **GitHub Personal Access Token (PAT)** so Veda Online can list and clone repositories your account can access (including private repos).

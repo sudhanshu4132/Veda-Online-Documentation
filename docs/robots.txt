@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sudhanshu4132.github.io/Veda-Online-Documentation/sitemap.xml

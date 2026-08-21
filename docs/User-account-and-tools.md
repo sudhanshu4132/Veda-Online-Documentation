@@ -1,3 +1,7 @@
+---
+description: Veda Online account tools — email notifications, profile, model settings, jobs dashboard, VD import, GDX Diff, and pivot grid.
+---
+
 # User account and tools
 
 Email preferences, profile options, jobs, imports, and utilities available from the user menu in Veda Online.

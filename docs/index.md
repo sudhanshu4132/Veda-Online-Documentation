@@ -1,3 +1,8 @@
+---
+title: Veda Online Documentation
+description: Official Veda Online docs for TIMES model management in the browser — getting started, model workspace, account tools, and technical notes.
+---
+
 # Welcome to Veda Online Documentation
 
 Veda Online documentation for TIMES model management in the browser — setup, workspace modules, account tools, and technical notes.
