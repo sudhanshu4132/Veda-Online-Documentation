@@ -57,6 +57,9 @@
     var link = event.target.closest("a[href*='#']");
     if (!link) return;
 
+    // Leave TOC / sidebar nav to Material so scroll-spy can update --active while scrolling
+    if (link.closest(".md-sidebar, .md-nav--primary, .md-tabs")) return;
+
     var href = link.getAttribute("href");
     if (!href) return;
 
